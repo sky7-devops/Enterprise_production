@@ -116,9 +116,9 @@ enterprise-aws-platform/
 
 - [x] Repository initialization
 - [x] Project structure
-- [ ] Documentation
-- [ ] Terraform backend
-- [ ] Remote state
+- [x] Documentation
+- [x] Terraform backend
+- [x] Remote state
 - [ ] Networking (VPC)
 - [ ] IAM
 - [ ] Amazon EKS
